@@ -1,0 +1,2 @@
+# Clase6_ejercicioDivisores_viernes-6deMayo
+Created with CodeSandbox
